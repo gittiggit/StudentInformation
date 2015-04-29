@@ -1,0 +1,34 @@
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\2. User Define Type\Basic Practices\StudentInformationPrimitiveType\StudentInformationPrimitiveType\bin\Debug\StudentInformationPrimitiveType.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\2. User Define Type\Basic Practices\StudentInformationPrimitiveType\StudentInformationPrimitiveType\bin\Debug\StudentInformationPrimitiveType.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\2. User Define Type\Basic Practices\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\2. User Define Type\Basic Practices\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.Properties.Resources.resources
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\2. User Define Type\Basic Practices\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.StudentInformationUI.resources
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\2. User Define Type\Basic Practices\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.csproj.GenerateResource.Cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\2. User Define Type\Basic Practices\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\2. User Define Type\Basic Practices\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 01\12.04.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 01\12.04.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\27.4.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\27.4.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\27.4.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\bin\Debug\StudentInformationPrimitiveType.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\27.4.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\bin\Debug\StudentInformationPrimitiveType.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\27.4.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\27.4.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.Properties.Resources.resources
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\27.4.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.StudentInformationUI.resources
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 03\27.4.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.csproj.GenerateResource.Cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\29.04.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\29.04.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\29.04.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\bin\Debug\StudentInformationPrimitiveType.exe
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\29.04.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\bin\Debug\StudentInformationPrimitiveType.pdb
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\29.04.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.csprojResolveAssemblyReference.cache
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\29.04.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.Properties.Resources.resources
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\29.04.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.StudentInformationUI.resources
+C:\Users\BITM Trainer - 301\Desktop\SEIP Project (.NET)\Batch 04\29.04.2015\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.csproj.GenerateResource.Cache
+H:\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.exe
+H:\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.pdb
+H:\StudentInformationPrimitiveType\StudentInformationPrimitiveType\bin\Debug\StudentInformationPrimitiveType.exe
+H:\StudentInformationPrimitiveType\StudentInformationPrimitiveType\bin\Debug\StudentInformationPrimitiveType.pdb
+H:\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.csprojResolveAssemblyReference.cache
+H:\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.Properties.Resources.resources
+H:\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.StudentInformationUI.resources
+H:\StudentInformationPrimitiveType\StudentInformationPrimitiveType\obj\Debug\StudentInformationPrimitiveType.csproj.GenerateResource.Cache
